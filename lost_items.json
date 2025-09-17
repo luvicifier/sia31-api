@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "item_name": "Water Bottle",
+        "location_found": "Library",
+        "description": "Blue Hydroflask"
+    },
+    {
+        "id": 2,
+        "item_name": "Calculator",
+        "location_found": "Lab Building",
+        "description": "TI-84 Plus"
+    },
+    {
+        "item_name": "Textbook",
+        "location_found": "Room 301",
+        "description": "Calculus 101"
+    },
+    {
+        "id": 4,
+        "item_name": "Textbook1111",
+        "location_found": "Room 3011",
+        "description": "Calculus 10111"
+    }
+]
